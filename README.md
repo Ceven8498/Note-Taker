@@ -34,3 +34,7 @@ Then run the server, type into your Terminal.
 
 and then open http://localhost:3001 in your browswer.
 
+<h2>Links</h2>
+Heroku: https://git.heroku.com/notetaker98.git
+Repo: https://github.com/Ceven8498/Note-Taker
+Deployed Github: https://ceven8498.github.io/Note-Taker/
