@@ -32,7 +32,7 @@ Run npm install to install all dependencies.
 Then run the server, type into your Terminal.
 <pre>Node server.js</pre>
 
-and then open http://localhost:3001 in your browswer.
+and then open http://localhost:3001 in your browser. Also it is deployed on Heroku
 
 <h2>Links</h2>
 Heroku: https://git.heroku.com/notetaker98.git
