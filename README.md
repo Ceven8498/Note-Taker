@@ -21,6 +21,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 <li>THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column</li>
 </ul>
 
+# Dependencies
+<ul>
+<li>NodeJS</li>
+</ul>
+
 # Installation
 Run npm install to install all dependencies.
 <pre> npm I </pre>
@@ -28,3 +33,4 @@ Then run the server, type into your Terminal.
 <pre>Node server.js</pre>
 
 and then open http://localhost:3001 in your browswer.
+
