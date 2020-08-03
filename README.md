@@ -4,7 +4,7 @@ I WANT to be able to write and save notes.
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 # Acceptance Criteria.
-
+<ul>
 GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to a notes page
@@ -18,17 +18,16 @@ WHEN I click on an existing note in the list in the left-hand column
 THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+</ul>
 
 # Installation
 
-Run npm install to install all dependencies.
+<h2>Run npm install to install all dependencies.</h2>
 
-npm I
+<pre> npm I </pre>
  
- To use the application locally, run node server.js.
+<h2>Then run the server, type into your Terminal.</h2>
 
-Type into your Terminal
-
-Node server.js
+<pre>Node server.js</pre>
 
 and then open http://localhost:3001 in your browswer. The Note Taker app is live on Heroku for you to use as well.
