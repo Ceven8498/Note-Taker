@@ -27,14 +27,17 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 </ul>
 
 # Installation
-Run npm install to install all dependencies.
+<pre>Clone the Code to your Local</pre>
+Run npm install from your Terminal to install all dependencies.
 <pre> npm I </pre>
 Then run the server, type into your Terminal.
 <pre>Node server.js</pre>
 
-and then open http://localhost:3001 in your browser. Also it is deployed on Heroku
+and then open http://localhost:3001 in your browser.
+Application it is deployed on Heroku at the link Below.
 
 <h2>Links</h2>
-Heroku: https://git.heroku.com/notetaker98.git
-Repo: https://github.com/Ceven8498/Note-Taker
-Deployed Github: https://ceven8498.github.io/Note-Taker/
+<ul>
+<li>Heroku: https://notetaker98.herokuapp.com/</li>
+<li>Repo: https://github.com/Ceven8498/Note-Taker</li>
+</ul>
