@@ -1,6 +1,4 @@
-# Note Taker 
-Note Taker is a simple, not resource intensive, application that can take your notes on the fly and help keep you 
- ---
+## Note Taker
 
 The application gives yout the following options:
 * Note-taking application
@@ -38,7 +36,7 @@ and then open http://localhost:3001 in your browser.
 
 Application it is deployed on Heroku at the link Below.
 
-<h2>Links</h2>
+## Links
 ---
 Heroku: https://notetaker98.herokuapp.com/
 Repo: https://github.com/Ceven8498/Note-Taker
