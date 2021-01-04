@@ -27,11 +27,12 @@ Then run the server, type into your Terminal
 
 and then open http://localhost:3001 in your browser.
 
-    ![](/images/sample.png)
 
- Add a note
+    ![](./images/sample.png)
 
-    ![](/images/sample2.png)
+Add a note
+
+    ![](./images/sample2.png)
 
 
 Application it is deployed on Heroku at the link Below.
